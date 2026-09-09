@@ -1,2 +1,5 @@
-# ai-class
-vacuum cleaner agent 
+# artificial intelligence 
+problem solving in prolog and pyhton in ai
+
+
+
