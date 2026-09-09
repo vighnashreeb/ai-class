@@ -1,5 +1,5 @@
 # artificial intelligence 
-problem solving in prolog and pyhton in ai
+problem solving in prolog and python in ai
 
 
 
